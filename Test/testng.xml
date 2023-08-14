@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testngsuite" verbose="1">
+<test name="testCase002">
+    <classes>
+        <class name="tests.download.Download" />
+    </classes>
+</test>
+</suite>
